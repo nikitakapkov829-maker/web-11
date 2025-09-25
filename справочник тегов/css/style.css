@@ -1,0 +1,38 @@
+body {
+    color: #2a2a2a;
+    background-color: rgb(213, 226, 163);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+header {
+    margin: 20px 50px 50px 70px;
+    background-color: rgb(255, 198, 12);
+    padding: 20px 20px 20px 20px;
+    border-color: burlywood;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 5px;
+}
+h2 {
+    text-align: center;
+}
+b,i,del {
+    background-color: #ffffff;
+}
+a {
+    color: #ff5b0f;
+}
+a:hover {
+    color: rgb(151, 127, 47);
+}
+#structure {
+    background-color: #db631d;
+}
+.site-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.site-menu li {
+    padding: 20px 20px 20px 20px;
+}
